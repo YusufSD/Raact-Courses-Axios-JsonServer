@@ -1,0 +1,56 @@
+.coursesMainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.coursesDiv {
+  width: 550px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.randomButton {
+  width: 180px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  border: none;
+  background-color: rebeccapurple;
+  color: white;
+  cursor: pointer;
+}
+
+.card {
+  width: 350px;
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.cardPrice {
+  font-style: italic;
+  color: red;
+}
+
+.previousButton {
+  border: none;
+  background-color: white;
+  font-size: 20px;
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+}
+
+.nextButton {
+  border: none;
+  background-color: white;
+  font-size: 20px;
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+}

@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nemo architecto, quasi iure quidem rem fugit ea facere odio quos ad, nam cumque commodi harum dolore temporibus necessitatibus voluptate. Pariatur.",
+      "title": "Kurs 1",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nemo architecto, quasi iure quidem rem fugit ea facere odio quos ad, nam cumque commodi harum dolore temporibus necessitatibus voluptate. Pariatur.",
+      "title": "Kurs 2",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nemo architecto, quasi iure quidem rem fugit ea facere odio quos ad, nam cumque commodi harum dolore temporibus necessitatibus voluptate. Pariatur.",
+      "title": "Kurs 3",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nemo architecto, quasi iure quidem rem fugit ea facere odio quos ad, nam cumque commodi harum dolore temporibus necessitatibus voluptate. Pariatur.",
+      "title": "Kurs 4",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nemo architecto, quasi iure quidem rem fugit ea facere odio quos ad, nam cumque commodi harum dolore temporibus necessitatibus voluptate. Pariatur.",
+      "title": "Kurs 5",
+      "price": 100
+    }
+  ]
+}
